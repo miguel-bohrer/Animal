@@ -1,0 +1,77 @@
+.container {
+	width: 1080px;
+	margin: 0 auto; /* centering the page*/
+}
+.logo {
+	width: 200px;
+	margin: 0 auto;
+}
+
+.intro {
+	
+	width: 1080px;
+	margin-top: 50px;
+	margin-left: 0;
+	margin-right: 0;
+	
+}
+.History{
+
+}
+
+img{
+	width: 100%;
+}
+h1{
+	text-align: left;
+	color: lightgrey;
+}
+h4{
+	text-align: left;
+	color: #e93444
+}
+h3{
+	color:#1c9ec5;
+    font-size:100px; 	
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.two_col {
+	width:320px;
+	padding: 40px;
+	float:left;
+}
+
+h2{
+	color:#e93444;
+    font-size:100px; 	
+	text-align: center;
+	text-transform: capitalize;
+}
+.two_col {
+	width:450px;
+	padding: 40px;
+	float:left;
+}
+
+.
+.clear {
+	clear: both;
+	
+}text_two_col{
+column-count: 4;
+	column-gap:10px
+
+		
+}
+h4{
+	text-align: left;
+	color:#e93444;
+}
+
+two_col {
+	width:520px;
+	padding: 40px;
+	float:left;
+}
